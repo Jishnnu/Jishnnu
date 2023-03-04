@@ -6,7 +6,7 @@
 
 ---
 
-### Skills, Frameworks and Technologies
+### 🛠️ Skills, Frameworks and Technologies
 <img align="left" alt="C" width=30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" alt="C++" width=30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" alt="C#" width=30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
@@ -34,7 +34,7 @@
 <br>
 
 ---
-### Stats
+### 📈 Stats
 <i style="margin-top:20px;"> Note: The most used languages listed on my profile only show the programming languages used in my public repositories and do not necessarily indicate my level of experience or skill </i>
 
 <a href="https://github.com/Jishnnu" style="padding-right:10px; margin-top:20px;">
@@ -44,4 +44,7 @@
 <a href="https://github.com/Jishnnu">
   <img align="left" src="https://streak-stats.demolab.com/?user=jishnnu&theme=dark" />
 </a>
+<br> <br> <br>
 
+---
+### 📲 Connect
