@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Century+Gothic&size=30&pause=500&center=true&width=435&lines=Welcome+to+Jishnu's+Profile+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-**`Software Developer | Author`**   
+**`Student at Presidency University | Engineering Intern`**   
 
 < I am Jishnu Pillai Anilkumar, a final-year Computer Science and Engineering undergraduate at Presidency University, Bengaluru, India. My publicly available repositories include personal, industrial, research and academic peojects. When I'm not coding, I love to learn new technologies and explore new ideas />
 
@@ -11,6 +11,7 @@
 <img align="left" alt="C++" width=30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" alt="C#" width=30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="Java" width=30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Java" width=30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 <img align="left" alt="HTML" width=30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width=30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
 <img align="left" alt="JavaScript" width=30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -26,11 +27,10 @@
 <img align="left" alt=".NET" width=30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="Arduino" width=30px style="padding-right:10px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <img align="left" alt="Git" width=30px style="padding-right:10px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Canva" width=30px style="padding-right:10px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <br> 
 <br> 
 
-<img align="left" alt="Windows" width=30px style="padding-right:10px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> <img align="left" alt="Linux" width=30px style="padding-right:10px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Canva" width=30px style="padding-right:10px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> <img align="left" alt="Windows" width=30px style="padding-right:10px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> <img align="left" alt="Linux" width=30px style="padding-right:10px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br>
 
