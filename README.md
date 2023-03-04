@@ -38,11 +38,11 @@
 ### Stats
 <i style="margin-top:20px;"> Note: The most used languages listed on my profile only show the programming languages used in my public repositories and do not necessarily indicate my level of experience or skill </i>
 
-<a href="https://git.io/streak-stats" style="padding-right:10px; margin-top:20px;">
+<a href="" style="padding-right:10px; margin-top:20px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnnu&layout=compact" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img align="left" src="https://streak-stats.demolab.com/?user=jishnnu&theme=dark" />
 </a>
 
