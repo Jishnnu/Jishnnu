@@ -42,7 +42,7 @@
 </a>
 
 <a href="https://github.com/Jishnnu">
-  <img align="left" src="https://streak-stats.demolab.com/?user=jishnnu&theme=dark" />
+  <img align="left" src="https://streak-stats.demolab.com/?user=Jishnnu&theme=dark" />
 </a>
 <br> <br> <br>
 
