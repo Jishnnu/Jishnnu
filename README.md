@@ -37,12 +37,12 @@
 ### 📈 Stats
 <i style="margin-top:20px;"> Note: The most used languages listed on my profile only show the programming languages used in my public repositories and do not necessarily indicate my level of experience or skill </i>
 
-<a href="https://github.com/Jishnnu" style="padding-right:10px; margin-top:20px;">
+<a href="https://github.com/Jishnnu" style="padding-right:6px; margin-top:20px;">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnnu&layout=compact" />
 </a>
 
 <a href="https://github.com/Jishnnu">
-  <img align="left" src="https://streak-stats.demolab.com/?user=Jishnnu&theme=dark" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=Jishnnu&theme=dark" />
 </a>
 <br> <br> <br> 
 
