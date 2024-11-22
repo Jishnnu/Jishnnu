@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Century+Gothic&size=30&pause=500&center=true&width=435&lines=Welcome+to+Jishnu's+Profile+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-**`Student at Presidency University | Software Engineer - AI`**   
+**`L2 Network Engineer`**   
 
-< I am Jishnu Pillai Anilkumar, a final-year Computer Science and Engineering undergraduate at Presidency University, Bangalore, India. My publicly available repositories include personal, industrial, research and academic peojects. When I'm not coding, I love to learn new technologies and explore new ideas />
+< I am Jishnu Anilkumar, L2 Network Engineer at HPE Bangalore. My publicly available repositories include personal, industrial, research and academic peojects. When I'm not coding, I love to learn new technologies and explore new ideas />
 
 ---
 
