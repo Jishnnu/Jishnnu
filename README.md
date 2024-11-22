@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Century+Gothic&size=30&pause=500&center=true&width=435&lines=Welcome+to+Jishnu's+Profile+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-**`L2 Network Engineer`**   
+**`L2 Network Engineer | Network Automation | MLNetOps`**   
 
 < I am Jishnu Anilkumar, L2 Network Engineer at HPE Bangalore. My publicly available repositories include personal, industrial, research and academic peojects. When I'm not coding, I love to learn new technologies and explore new ideas />
 
